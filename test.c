@@ -3,6 +3,9 @@
 int main(void)
 {
 
-	printf("testing...\n");
+	printf("adadadad\n");
+	printf("wswswsws\n");
+	
+	sleep(5);
 	return 0;
 }
