@@ -7,5 +7,7 @@ int main(void)
 	printf("wswswsws\n");
 	
 	sleep(5);
+
+	printf("version");
 	return 0;
 }
