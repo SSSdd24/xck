@@ -7,5 +7,7 @@ int main(void)
 	printf("wswswsws\n");
 	
 	sleep(5);
+	
+	printf("啦啦啦~");
 	return 0;
 }
